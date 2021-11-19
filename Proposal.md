@@ -17,9 +17,5 @@ The goal of this project is to provide emergency management and E-911 centers in
       - https://clarkcountygis-ccgismo.hub.arcgis.com/datasets/hospitals/explore
       -  1.3 kb
       -  Open Data (Clark County, NV)
-# 3. Wireframes.
-![wireframe1 0](https://user-images.githubusercontent.com/89946784/142337019-53ba8021-0426-42c6-ae85-d08f4833b55d.jpg)
-![4](https://user-images.githubusercontent.com/89946784/142109661-52d0f626-637c-4546-8445-9651f4c1c918.jpg)
-![3](https://user-images.githubusercontent.com/89946784/142109671-ce3c3382-70a1-4e6f-a05d-1f5941cd69b6.jpg)
-![2](https://user-images.githubusercontent.com/89946784/142109675-40e8b1e8-487f-4ba6-8e58-04d0a7d6269e.jpg)
-![微信图片_20211116130853](https://user-images.githubusercontent.com/89946784/142109681-a0d69d22-97d2-43b5-8e69-087bd83f27c6.jpg)
+# 3. Wireframes
+<img width="3866" alt="wire frame1 0" src="https://user-images.githubusercontent.com/89944340/142692702-4e3c5643-22f9-444a-832a-1f1d6a28481c.png">
