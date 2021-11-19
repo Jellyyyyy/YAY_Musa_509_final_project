@@ -1,10 +1,25 @@
 # Proposal
 
-0. Authors — list the names of everyone part of producing the project.
-1. Abstract — a paragraph description of the problem/situation/domain/etc. The Abstract should clearly state the types of decisions that your dashboard is going to help facilitate.
-2. List of data sources you intend to use for this project. For each data source, please list:
-   * Where you can get access to the dataset (e.g., a URL, government agency, third-party API, BigQuery public dataset, etc.)
-   * Size of dataset (if applicable)
-   * Whether you currently have access to this data
-
-3. Wireframes of the webpage(s) for your project. This of a wireframe as an outline for an interactive project. It allows you to quickly communicate the general makeup and organization of the dashboard content. See [this page](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/) for guidance on creating wireframes. Hand-drawn or digital are both acceptable, but please scan or take pictures of the hand-drawn ones for inclusion in the repo. Link the images in the proposal markdown. Interactive wireframes are acceptable too. Many free and paid tools exist for creating wireframes (Adobe Wireframe XD, [MockFlow](https://mockflow.com/), [Figma](https://www.figma.com/wireframe-tool/), etc.)
+# 0. Authors
+Yebei Yao, Jiali Yao, and Austin L. Wheat
+# 1. Abstract
+The goal of this project is to provide emergency management and E-911 centers in Las Vegas, NV with an authoritative dashboard to inform dispatching procedure. Here, "emergency" specifically refers to the timely treatment to the vicitms of the violent crime, and the main stakeholders of this project are **citizens**, **Office for Victims of Crime**, and **city planners**. The idea is to provide a resource that will dictate which **fire stations** or **hospitals** should be receiving dispatch calls and allocate ambulances to respond to emergency sitations. Secondly, city planners can also utilize it as a site selection tool to better identify areas such as green spaces or parking lots to identify areas with little to no emergency service access that could be permanently repurposed into hospitals/fire stations.
+# 2. Data Sources
+   * *Crime Data*:<br> 
+        - https://opendataportal-lasvegas.opendata.arcgis.com/datasets/metro-cfs-opendata/explore<br>
+        - Size: 4.3 MB
+        - Open Data (City of Las Vegas, NV)
+   * *Fire Station Data*:
+      - https://opendataportal-lasvegas.opendata.arcgis.com/datasets/clark-county-fire-stations/explore
+      - 4.1 kb
+      - Open Data (City of Las Vegas, NV)
+   * *Hospital Data*: 
+      - https://clarkcountygis-ccgismo.hub.arcgis.com/datasets/hospitals/explore
+      -  1.3 kb
+      -  Open Data (Clark County, NV)
+# 3. Wireframes.
+![wireframe1 0](https://user-images.githubusercontent.com/89946784/142337019-53ba8021-0426-42c6-ae85-d08f4833b55d.jpg)
+![4](https://user-images.githubusercontent.com/89946784/142109661-52d0f626-637c-4546-8445-9651f4c1c918.jpg)
+![3](https://user-images.githubusercontent.com/89946784/142109671-ce3c3382-70a1-4e6f-a05d-1f5941cd69b6.jpg)
+![2](https://user-images.githubusercontent.com/89946784/142109675-40e8b1e8-487f-4ba6-8e58-04d0a7d6269e.jpg)
+![微信图片_20211116130853](https://user-images.githubusercontent.com/89946784/142109681-a0d69d22-97d2-43b5-8e69-087bd83f27c6.jpg)
