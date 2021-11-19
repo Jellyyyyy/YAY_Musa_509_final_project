@@ -1,4 +1,4 @@
-# Crime and Help on time
+# Crime and Help on time (more details in the proposal)
 (temporary title)<br>
 We want to know where the crimes are or clustered? <br>
 If the police resources are suffcient there? <br>
