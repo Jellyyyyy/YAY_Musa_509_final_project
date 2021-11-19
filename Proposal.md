@@ -18,4 +18,4 @@ The goal of this project is to provide emergency management and E-911 centers in
       -  1.3 kb
       -  Open Data (Clark County, NV)
 # 3. Wireframes
-<img width="3866" alt="wire frame1 0" src="https://user-images.githubusercontent.com/89944340/142692702-4e3c5643-22f9-444a-832a-1f1d6a28481c.png">
+<img width="3866" alt="wire frame1 0" src="https://user-images.githubusercontent.com/89944340/142693094-d430d20c-dda9-4d80-b3f2-25245c9d5445.png">
