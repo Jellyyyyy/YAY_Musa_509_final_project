@@ -21,14 +21,14 @@ response = requests.get('https://opendata.arcgis.com/datasets/f20a4474d9fa47c8bd
 # Save retrieved data to a local file
 print('Saving facility data to a file...')
 
-outfile_path = f'data/facilitydata_{dt.date.today()}.geojson'
+outfile_path = f'data/facilitydata.geojson'
 with open(outfile_path, mode='wb') as outfile:
     outfile.write(response.content)
 
 # Upload local file of data to Google Cloud Storage
 print('Uploading facility data to GCS...')
 bucket_name = '1126_data'
-blob_name = f'facilitydata_{dt.date.today()}.geojson'
+blob_name = f'facilitydata.geojson'
 
 storage_robot = storage.Client()
 bucket = storage_robot.bucket(bucket_name)
