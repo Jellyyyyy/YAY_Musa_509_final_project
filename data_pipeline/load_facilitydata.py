@@ -8,7 +8,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 def main(ds):
     local_path = gcs_to_local_file(
         gcs_bucket_name='1126_data',
-        gcs_blob_name=f'facilitydata_2021-11-27.geojson'
+        gcs_blob_name=f'facilitydata.geojson'
     )
 
     print(f'Loading file {local_path} into a GeoDataFrame...')
